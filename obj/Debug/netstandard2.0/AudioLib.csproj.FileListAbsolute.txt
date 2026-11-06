@@ -1,0 +1,16 @@
+/tmp/claude-1000/-home-jakob-Dokumente-dev-CSharp-Tetris/d2a7e682-1546-4496-b2bd-eb4379f66b8e/scratchpad/audiolib/AudioLib.deps.json
+/tmp/claude-1000/-home-jakob-Dokumente-dev-CSharp-Tetris/d2a7e682-1546-4496-b2bd-eb4379f66b8e/scratchpad/audiolib/AudioLib.dll
+/tmp/claude-1000/-home-jakob-Dokumente-dev-CSharp-Tetris/d2a7e682-1546-4496-b2bd-eb4379f66b8e/scratchpad/audiolib/AudioLib.pdb
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/obj/Debug/netstandard2.0/AudioLib.csproj.AssemblyReference.cache
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/obj/Debug/netstandard2.0/AudioLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/obj/Debug/netstandard2.0/AudioLib.AssemblyInfoInputs.cache
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/obj/Debug/netstandard2.0/AudioLib.AssemblyInfo.cs
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/obj/Debug/netstandard2.0/AudioLib.csproj.CoreCompileInputs.cache
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/obj/Debug/netstandard2.0/AudioLib.dll
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/obj/Debug/netstandard2.0/AudioLib.pdb
+/tmp/claude-1000/-home-jakob-Dokumente-dev-CSharp-Tetris/d2a7e682-1546-4496-b2bd-eb4379f66b8e/scratchpad/build/AudioLib.deps.json
+/tmp/claude-1000/-home-jakob-Dokumente-dev-CSharp-Tetris/d2a7e682-1546-4496-b2bd-eb4379f66b8e/scratchpad/build/AudioLib.dll
+/tmp/claude-1000/-home-jakob-Dokumente-dev-CSharp-Tetris/d2a7e682-1546-4496-b2bd-eb4379f66b8e/scratchpad/build/AudioLib.pdb
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/bin/Debug/netstandard2.0/AudioLib.deps.json
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/bin/Debug/netstandard2.0/AudioLib.dll
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/bin/Debug/netstandard2.0/AudioLib.pdb

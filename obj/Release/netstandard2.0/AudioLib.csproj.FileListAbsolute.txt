@@ -1,0 +1,10 @@
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/bin/Release/netstandard2.0/AudioLib.deps.json
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/bin/Release/netstandard2.0/AudioLib.dll
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/bin/Release/netstandard2.0/AudioLib.pdb
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/obj/Release/netstandard2.0/AudioLib.csproj.AssemblyReference.cache
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/obj/Release/netstandard2.0/AudioLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/obj/Release/netstandard2.0/AudioLib.AssemblyInfoInputs.cache
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/obj/Release/netstandard2.0/AudioLib.AssemblyInfo.cs
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/obj/Release/netstandard2.0/AudioLib.csproj.CoreCompileInputs.cache
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/obj/Release/netstandard2.0/AudioLib.dll
+/home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/obj/Release/netstandard2.0/AudioLib.pdb

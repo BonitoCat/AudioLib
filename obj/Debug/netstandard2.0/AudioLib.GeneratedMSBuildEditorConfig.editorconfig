@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = AudioLib
+build_property.ProjectDir = /home/jakob/Dokumente/dev/CSharp/AudioLib/AudioLib/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
